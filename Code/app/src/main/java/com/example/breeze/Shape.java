@@ -3,10 +3,9 @@ package com.example.breeze;
 public abstract class Shape {
     private int x;
     private int y;
+    String color = "teal";
 
-    private String color = "Magenta";
-
-    public Shape(){
+    public Shape() {
         this.x = 0;
         this.y = 0;
     }
