@@ -1,4 +1,4 @@
 # breeze
 
-Name: Ahmed Jama
-CCID: aajama
+Name: Osman Akman
+CCID: oakman
