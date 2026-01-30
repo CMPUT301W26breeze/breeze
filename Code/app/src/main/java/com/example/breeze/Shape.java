@@ -1,8 +1,11 @@
 package com.example.breeze;
 
+import android.graphics.Color;
+
 public abstract class Shape {
     private int x;
     private int y;
+    private String color = "orange";
 
     public Shape() {
         this.x = 0;
